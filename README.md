@@ -30,6 +30,6 @@ Open VsCode Terminal<br>
 
 ## Relevant Links<br>
 
-Deployed Application:https://github.com/Mary90272/Text-Editor
+Deployed Application:
 <br>
-GitHub Repo:
+GitHub Repo:https://github.com/Mary90272/Text-Editor
