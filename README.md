@@ -18,7 +18,10 @@ Open VsCode Terminal<br>
 -Open browser http://localhost:3001/ to run this application on your local machine.<br>
 
 ## Images of Deployed Application
-![alt text](assets/Screenshot 2023-03-08 111801.png)
+![alt text](assets/Screenshot%202023-03-08%20111801.png)
+![alt text](assets/Screenshot%202023-03-08%20111829.png)
+![alt text](assets/Screenshot%202023-03-08%20111902.png)
+![alt text](assets/Screenshot%202023-03-08%20112009.png)
 
 
 
