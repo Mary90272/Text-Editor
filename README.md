@@ -15,7 +15,7 @@ Open VsCode Terminal<br>
 -npm run start:dev<br>
 -npm run start<br>
 -You can see message "Now listening on port: 3000"<br>
--Open browser http://localhost:3001/ to run this application on your local machine.<br>
+-Open browser http://localhost:3000/ to run this application on your local machine.<br>
 
 ## Images of Deployed Application
 ![alt text](assets/Screenshot%202023-03-08%20111801.png)
