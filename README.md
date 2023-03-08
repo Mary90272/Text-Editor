@@ -19,7 +19,7 @@ Open VsCode Terminal<br>
 
 ## Images of Deployed Application
 ![alt text](assets/Screenshot 2023-03-08 111801.png)
-![alt text](assets/Screenshot 2023-03-08 111801.png)
+
 
 
 
@@ -27,6 +27,6 @@ Open VsCode Terminal<br>
 
 ## Relevant Links<br>
 
-Deployed Application:
+Deployed Application:https://github.com/Mary90272/Text-Editor
 <br>
 GitHub Repo:
