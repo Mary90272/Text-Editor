@@ -30,6 +30,6 @@ Open VsCode Terminal<br>
 
 ## Relevant Links<br>
 
-Deployed Application:
+Deployed Application: https://textenitor.herokuapp.com/
 <br>
 GitHub Repo:https://github.com/Mary90272/Text-Editor
